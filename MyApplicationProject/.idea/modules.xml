@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MobileWoKeeper/MobileWoKeeper.iml" filepath="$PROJECT_DIR$/MobileWoKeeper/MobileWoKeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplicationProject.iml" filepath="$PROJECT_DIR$/MyApplicationProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WomInterface/WomInterface.iml" filepath="$PROJECT_DIR$/WomInterface/WomInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WomInterfaceTest/WomInterfaceTest.iml" filepath="$PROJECT_DIR$/WomInterfaceTest/WomInterfaceTest.iml" />
+    </modules>
+  </component>
+</project>
+
